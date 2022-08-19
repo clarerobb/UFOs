@@ -7,6 +7,19 @@ This webpage includes information on UFOs and a dynamic table that allows users 
 data.js
 
 ## Results
+When users go to the webpage, they see the article "UFO Sightings: Fact or Fancy? Ufologists Weigh In" and a table with UFO sightings (see below). 
+
+<img width="1200" alt="Screen Shot 2022-08-18 at 9 25 22 PM" src="https://user-images.githubusercontent.com/106405775/185529607-099f784b-9e8b-4981-9cbb-aaae64030c2b.png">
+
+The "Filter Search" section is below the article on the left.
+
+<img width="287" alt="Screen Shot 2022-08-18 at 9 29 42 PM" src="https://user-images.githubusercontent.com/106405775/185529826-20dfd227-322f-49b2-8b61-21e87ab376e2.png">
+
+Users can filter by one of all of the search criteria shown. To search, a user would type in a criteria and press enter. The results would then display in the table. For example, there is one result for UFO sightings in **New Mexico** that were in the shape of a **light**. 
+
+<img width="1181" alt="Screen Shot 2022-08-18 at 9 34 45 PM" src="https://user-images.githubusercontent.com/106405775/185530644-bbae7a71-4397-4465-b82f-4779de39b32c.png">
+
+To clear the search criteria, users need to delete their input, and the table would display the full sightings results. 
 
 ## Summary
 Currently, users need to know the exact information that they would like to search in order to use the UFO sightings filter, which is not ideal since the users are not the dataset. The filter is case sensitive and will only return results with the correct whitespace (i.e. no results will return if there is a space at the end of the word).
